@@ -37,6 +37,10 @@
 
 
 
+        <form method="GET" action="logout.php">
+        <button name='logout' value='logout' type='submit'>Logout</button>
+        </form>
+
 
 
 </html>

@@ -2,7 +2,7 @@
 <html lang='en-US'>
 
 <head>
-    <title>Simple File Sharing Website</title>
+    <title>Simple File Sharing Website - Uploading Image</title>
     <link rel="stylesheet" type="text/css" href="fileM2.css" />
 </head>
 
