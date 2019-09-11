@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(141, 85, 13);
+    background-color: rgb(12, 14, 114);
+    color: red;
+    margin: 20px;
+    padding: 20px;
+    font: 25px/25px Georgia, sans-serif;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+}
+div#hello {
+    background-color: black;
+    color: rgb(250,100,150);
+    margin: 0;
+    padding: 10px;
+    font: 20px/20px Georgia, sans-serif;
+    letter-spacing: 2px;
+    text-align: left;
+    align-items: center;
+}
+
