@@ -1,5 +1,4 @@
 <?php
-//NOT CHECKED YET
 
 session_start();
 
@@ -10,7 +9,6 @@ if(!preg_match('/^[\w_\.\-]+$/', $filename) ){
 	exit;
 }
 
-//Need to ensure username is valid. From wiki
 $username = $_SESSION['username'];
 if(!preg_match('/^[\w_\-]+$/', $username) ){
 	echo "Invalid username";
