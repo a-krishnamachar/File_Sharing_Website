@@ -1,7 +1,3 @@
-<?php
-    session_start();
-?>
-
 <!DOCTYPE html>
 <html lang='en-US'>
 
@@ -19,6 +15,8 @@
         <div id= "hello">
         <h2>WELCOME TO THE SITE.</h2>
             <?php
+                session_start();
+
                 echo "We're happy you're here, ". $_SESSION['username'] . "."
             ?>
         </div>
